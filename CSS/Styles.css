@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+.background-red {
+	background-color: red;
+	padding: 10px;
+	border: medium solid #FFFFFF;
+}
+
+.background-blue {
+	background-color: blue;
+	padding: 10px;
+	border: medium solid #FFFFFF;
+}
+
+h1 {
+	background-color: cadetblue;
+	
+}
+
+p {
+	color: white;
+	background-color: black
+	
+}
+
+.para {
+    background-image: url("../Images/background_LorumIpsum.jpg");
+    color: white;
+    align-content: center;
+	font-family: 'Bellota', cursive;
+}
+
+.btn-success{
+	background-color: green;
+}
